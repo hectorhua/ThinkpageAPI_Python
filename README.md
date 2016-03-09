@@ -1,4 +1,6 @@
 # ThinkpageAPI_Python
+抓取Thinkpage第二版气象接口数据
+
 fetch weather(forecast and alarm) data from ThinkpageAPI with Python program
 
 using:
